@@ -1,0 +1,5 @@
+wave
+numpy
+matplotlib
+scipy
+python-dotenv
